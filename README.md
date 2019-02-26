@@ -5,6 +5,26 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 
 
+
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthough GIF
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. 
+
+<img src="http://g.recordit.co/tSL69TF6Y8.gif" width=250><br>
+
+### Notes
+I found a problem about not including identifiers for the property section of moviecell, which caused an exception to be thrown and the app to crash when opening the collection view. Fortunately I got help from the instructors of the course and I am very grateful to receive such immediate help. Great thanks to Tim Lee and Mihai Ruber for their excellent solutions! 
 ---
 
 ## Flix Part 1
